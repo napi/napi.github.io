@@ -9,11 +9,7 @@
     <script src="TemplateData/UnityProgress.js"></script>  
     <script src="Build/UnityLoader.js"></script>
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/ken_spacewar_client_3.json", {onProgress: UnityProgress});
-      function setUserId(userId) {
-        var result = gameInstance.SendMessage('Controller', 'SetUserId', userId);
-        console.log(result);
-      }
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/ken_spacewar_client_1.json", {onProgress: UnityProgress});
     </script>
   </head>
   <body>
