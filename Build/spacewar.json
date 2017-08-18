@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "spacewar.data.unityweb",
-"asmCodeUrl": "spacewar.asm.code.unityweb",
-"asmMemoryUrl": "spacewar.asm.memory.unityweb",
-"asmFrameworkUrl": "spacewar.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20"
-}
