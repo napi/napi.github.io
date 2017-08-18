@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ken_spacewar_client_13.data.unityweb",
+"asmCodeUrl": "ken_spacewar_client_13.asm.code.unityweb",
+"asmMemoryUrl": "ken_spacewar_client_13.asm.memory.unityweb",
+"asmFrameworkUrl": "ken_spacewar_client_13.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
